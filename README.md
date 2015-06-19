@@ -2,22 +2,27 @@
 
 Este es un repositorio  para el assignment #1
 
-paginas recomendadas por los estudiantes
+paginas recomendadas por los estudiantes:
+
 https://class.coursera.org/datascitoolbox-010/forum/thread?thread_id=283
 http://varianceexplained.org/RData/
 https://www.codeschool.com/courses/try-r
 http://git-scm.com/book/en/v2
 Yes: https://try.github.io/levels/1/challenges/1
-http://www.dataschool.io/learning-data-science-fundamentals/ (Kevin Markham´s website). Here you will also find a link to his helpful Youtube videos.
+http://www.dataschool.io/learning-data-science-fundamentals/ (Kevin Markham´s website). Here you will also find a link to his 
+helpful Youtube videos.
+
 videos de la semana 2
 https://d396qusza40orc.cloudfront.net/datascitoolbox/lecture_slides/02_03_commandLineInterface.pdf
 https://class.coursera.org/datascitoolbox-015/lecture/41
 https://class.coursera.org/datascitoolbox-015/lecture/43
+
 para entrar a github
 github.com
 usuario: mi-email
 pswd:jasq1610
 https://class.coursera.org/datascitoolbox-015/lecture/45
+
 pregunta
 Para copiar un repo a mi directorio local
 Nota usando las instrucciones en el video no funciona
