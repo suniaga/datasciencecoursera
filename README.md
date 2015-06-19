@@ -1,5 +1,7 @@
 # datasciencecoursera
+
 Este es un repositorio  para el assignment #1
+
 paginas recomendadas por los estudiantes
 https://class.coursera.org/datascitoolbox-010/forum/thread?thread_id=283
 http://varianceexplained.org/RData/
