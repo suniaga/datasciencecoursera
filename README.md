@@ -12,42 +12,39 @@ Yes: https://try.github.io/levels/1/challenges/1
 http://www.dataschool.io/learning-data-science-fundamentals/ (Kevin Markham´s website). Here you will also find a link to his 
 helpful Youtube videos.
 
-videos de la semana 2
-https://d396qusza40orc.cloudfront.net/datascitoolbox/lecture_slides/02_03_commandLineInterface.pdf
-
 
 para entrar a github
 github.com
 usuario: mi-email
 pswd:jasq1610
 
-RESUMEN
+## RESUMEN
 
-para crear un repo y guardar archivos en el
+## para crear  un repo y guardar archivos en el
 
-Ir a github y click New Repository, darle un nombre (pej.plm) y seguir instrucciones
-copia la direccion
-abrir git bash
-git clone direccion (insertar con tecla insert)
-cd plm
-chequealo con ls
-Busca el archivo a copiar,   usa cd .. y ls
-copialo ejm  cp ../ML.md .
-verifica con ls y git status
-git add . (espacio despues de add)
-verifica con git status
-git commit -m “added files”
-git push
-pregunta
-Para copiar un repo a mi directorio local
-Entrar a gitbash
-$mkdir jas
-$ cd jas
-$ git init
-$ git clone direccion
-la direccion se copia del github y luego se pega con la tecla insert
-luego verificar con ls
-y resolvi el problema
+* Ir a github y click New Repository, darle un nombre (pej.plm) y seguir instrucciones
+* copia la direccion
+* abrir git bash
+* git clone direccion (insertar con tecla insert)
+* cd plm
+* chequealo con ls
+* Busca el archivo a copiar,   usa cd .. y ls
+* copialo ejm  cp ../ML.md .
+* verifica con ls y git status
+* git add . (espacio despues de add)
+* verifica con git status
+* git commit -m “added files”
+* git push
+
+## Para copiar un repo a mi directorio local
+* Entrar a gitbash
+* $mkdir jas
+* $ cd jas
+* $ git init
+* $ git clone direccion
+* la direccion se copia del github y luego se pega con la tecla insert
+* luego verificar con ls
+
 Para mas detalles ver coursera
 https://www.coursera.org/learn/data-scientists-tools/home/week/2
 o visitar
