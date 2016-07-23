@@ -4,7 +4,7 @@ Este es un repositorio  para el assignment #1
 
 paginas recomendadas por los estudiantes:
 
-https://class.coursera.org/datascitoolbox-010/forum/thread?thread_id=283
+
 http://varianceexplained.org/RData/
 https://www.codeschool.com/courses/try-r
 http://git-scm.com/book/en/v2
@@ -14,38 +14,41 @@ helpful Youtube videos.
 
 videos de la semana 2
 https://d396qusza40orc.cloudfront.net/datascitoolbox/lecture_slides/02_03_commandLineInterface.pdf
-https://class.coursera.org/datascitoolbox-015/lecture/41
-https://class.coursera.org/datascitoolbox-015/lecture/43
+
 
 para entrar a github
 github.com
 usuario: mi-email
 pswd:jasq1610
-https://class.coursera.org/datascitoolbox-015/lecture/45
 
+RESUMEN
+
+para crear un repo y guardar archivos en el
+
+Ir a github y click New Repository, darle un nombre (pej.plm) y seguir instrucciones
+copia la direccion
+abrir git bash
+git clone direccion (insertar con tecla insert)
+cd plm
+chequealo con ls
+Busca el archivo a copiar,   usa cd .. y ls
+copialo ejm  cp ../ML.md .
+verifica con ls y git status
+git add . (espacio despues de add)
+verifica con git status
+git commit -m “added files”
+git push
 pregunta
 Para copiar un repo a mi directorio local
-Nota usando las instrucciones en el video no funciona
-Respuesta seguir las instrucciones
-git
+Entrar a gitbash
 $mkdir jas
 $ cd jas
 $ git init
 $ git clone direccion
 la direccion se copia del github y luego se pega con la tecla insert
-para mas detalles ver
-
-
 luego verificar con ls
 y resolvi el problema
-el url es github/com/suniaga./calculonumerico_js.git
-installing packages
-click install package in Rstudio
-proporcionar nombre del pakete y dar enter
-para cargarlo
-library(“nombre”)
-para mas detalles ver
-https://class.coursera.org/datascitoolbox-015/lecture/53
-
-Acerca de estos anuncios
-En ocasiones, algunos de tus visitantes pueden ver aquí un anun
+Para mas detalles ver coursera
+https://www.coursera.org/learn/data-scientists-tools/home/week/2
+o visitar
+http://datasciencespecialization.github.io/?utm_medium=email&utm_source=other&utm_campaign=notifications.auto.yks7hVcxEeWeoA6hTSfUhQ
