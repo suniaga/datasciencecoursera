@@ -48,7 +48,7 @@ pswd:jasq1610
 * verifica con git status
 * git commit -m “added files”
 * git push
-
+https://www.youtube.com/watch?v=O72FWNeO-xY&index=7&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 Para mas detalles ver coursera
 https://www.coursera.org/learn/data-scientists-tools/home/week/2
 o visitar
