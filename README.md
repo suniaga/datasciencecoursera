@@ -36,7 +36,7 @@ pswd:jasq1610
 * git commit -m “added files”
 * git push
 
-## Para copiar un repo a mi directorio local
+## Para copiar un repo a un directorio local (jas)
 * Entrar a gitbash
 * $mkdir jas
 * $ cd jas
@@ -44,6 +44,10 @@ pswd:jasq1610
 * $ git clone direccion
 * la direccion se copia del github y luego se pega con la tecla insert
 * luego verificar con ls
+* git add . (espacio despues de add)
+* verifica con git status
+* git commit -m “added files”
+* git push
 
 Para mas detalles ver coursera
 https://www.coursera.org/learn/data-scientists-tools/home/week/2
