@@ -47,8 +47,8 @@ pswd:jasq1610
 * git add . (espacio despues de add)
 * verifica con git status
 * git commit -m “added files”
-* git push
-
+* git push origin master
+* if it doesnot work try pull origin master before push
 * Para mas detalles ver:
 * https://www.youtube.com/watch?v=O72FWNeO-xY&index=7&list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD
 * https://www.coursera.org/learn/data-scientists-tools/home/week/2
