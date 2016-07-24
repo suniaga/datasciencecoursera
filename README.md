@@ -54,3 +54,5 @@ pswd:jasq1610
 * https://www.coursera.org/learn/data-scientists-tools/home/week/2
 * o visitar
 * http://datasciencespecialization.github.io/?utm_medium=email&utm_source=other&utm_campaign=notifications.auto.yks7hVcxEeWeoA6hTSfUhQ
+## MARKDOWN
+* https://guides.github.com/features/mastering-markdown/
